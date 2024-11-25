@@ -1,1 +1,1 @@
-# Reataurant
+# Restaurant
